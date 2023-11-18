@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malik Benabid</h1>
 <h3 align="center">A passionate Web developer from Algeria</h3>
 
-- 💬 Ask me about **React ,firebase or stripe**
+- 💬 Ask me about **Nextjs, React , Typescript, Firebase and Stripe**
 
 - 📫 How to reach me **malikbendevv@gmail.com**
 
